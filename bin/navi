@@ -1,1 +1,5 @@
-
+#!/bin/sh
+export CHROME_WRAPPER=/usr/lib/ungoogled-chromium/navi
+export CHROME_DESKTOP=navi.desktop
+CHROME_FLAGS="--enable-gpu-rasterization $(cat ~/.config/chromium-flags.conf 2>/dev/null)"
+exec /usr/lib/ungoogled-chromium/navi $CHROME_FLAGS "$@"

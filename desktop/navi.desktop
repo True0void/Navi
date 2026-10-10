@@ -1,1 +1,12 @@
-
+[Desktop Entry]
+Version=1.0
+Name=Navi
+GenericName=Web Browser
+Comment=Navi. Built to vanish.
+Exec=/usr/bin/navi %U
+Terminal=false
+Icon=navi
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=Navi

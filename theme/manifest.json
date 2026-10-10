@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Navi Theme",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "images/toolbar.png",
+      "theme_toolbar": "images/toolbar.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "top"
+    }
+  }
+}

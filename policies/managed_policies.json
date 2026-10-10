@@ -1,1 +1,15 @@
-
+{
+  "ExtensionInstallForcelist": [
+    "ddkjiahejlhfcafbddmgiahcphecmpfh;https://clients2.google.com/service/update2/crx",
+    "nngceckbapebfimnlniiiahkandclblb;https://clients2.google.com/service/update2/crx",
+    "lckanjgmijmafbedllaakclkaicjfmnk;https://clients2.google.com/service/update2/crx",
+    "mnjggcdmjocbbbhaepdhchncahnbgone;https://clients2.google.com/service/update2/crx",
+    "jinjaccalgkegednnccohejagnlnfdag;https://clients2.google.com/service/update2/crx",
+    "dookpfaalaaappcdneeahomimbllocnb;https://clients2.google.com/service/update2/crx",
+    "mpbjkejclgfgadiemmefgebjfooflfhl;https://clients2.google.com/service/update2/crx",
+    "hlkenndednhfkekhgcdicdfddnkalmdm;https://clients2.google.com/service/update2/crx",
+    "gbkicngmnoedeajgodbbokjadbfbbpng;https://clients2.google.com/service/update2/crx"
+  ],
+  "MemorySaverModeSavings": 2,
+  "HighEfficiencyModeEnabled": true
+}
