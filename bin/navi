@@ -1,5 +1,34 @@
+
 #!/bin/sh
-export CHROME_WRAPPER=/usr/lib/ungoogled-chromium/navi
-export CHROME_DESKTOP=navi.desktop
-CHROME_FLAGS="--enable-gpu-rasterization $(cat ~/.config/chromium-flags.conf 2>/dev/null)"
-exec /usr/lib/ungoogled-chromium/navi $CHROME_FLAGS "$@"
+
+NAVI_DIR="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+CHROMIUM="/usr/lib/ungoogled-chromium/navi"
+EXT_DIR="$NAVI_DIR/extensions"
+
+export CHROME_WRAPPER="$CHROMIUM"
+export CHROME_DESKTOP="navi.desktop"
+
+CHROME_FLAGS="--enable-gpu-rasterization"
+if [ -f "$HOME/.config/chromium-flags.conf" ]; then
+    CHROME_FLAGS="$CHROME_FLAGS $(cat "$HOME/.config/chromium-flags.conf")"
+fi
+
+EXTENSIONS=""
+if [ -d "$EXT_DIR" ]; then
+    for manifest in "$EXT_DIR"/*/*/manifest.json; do
+        [ -f "$manifest" ] || continue
+        ext_path="${manifest%/manifest.json}"
+        if [ -n "$EXTENSIONS" ]; then
+            EXTENSIONS="$EXTENSIONS,$ext_path"
+        else
+            EXTENSIONS="$ext_path"
+        fi
+    done
+fi
+
+if [ -n "$EXTENSIONS" ]; then
+    exec "$CHROMIUM" $CHROME_FLAGS --load-extension="$EXTENSIONS" "$@"
+else
+    exec "$CHROMIUM" $CHROME_FLAGS "$@"
+fi
+
