@@ -1,0 +1,1 @@
+function i(){return matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`)}function r(t){let e=i();function n(){e.removeEventListener("change",n),e=i(),e.addEventListener("change",n),t()}return window.addEventListener("resize",t),e.addEventListener("change",n),()=>{window.removeEventListener("resize",t),e.removeEventListener("change",n)}}export{r as o};

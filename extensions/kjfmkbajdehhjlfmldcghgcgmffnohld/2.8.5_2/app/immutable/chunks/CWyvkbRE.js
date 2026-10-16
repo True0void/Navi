@@ -1,0 +1,1 @@
+var o=Object.defineProperty;var d=(t,s,e)=>s in t?o(t,s,{enumerable:!0,configurable:!0,writable:!0,value:e}):t[s]=e;var n=(t,s,e)=>d(t,typeof s!="symbol"?s+"":s,e);class a extends EventTarget{constructor(e,r){super();n(this,"node");n(this,"settings");this.node=e,this.settings=r}}export{a as B};

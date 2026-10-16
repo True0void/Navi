@@ -1,0 +1,462 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Жарнамалар"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Жағымсыз элементтер"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Үнсіз келісім бойынша"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Импортталған тізімдер"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Зиянды бағдарламалардан қорғау, қауіпсіздік"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Әртүрлі"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Жекелік"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Аймақтар, тілдер"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Өзгерістер журналы"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Бастапқы код (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Үлес қосушылар"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Сыртқы тәуелділіктер (GPLv3-үйлесімді):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Құжаттама"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Сүзгі тізімдері"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Туралы"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Жекелік саясаты"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Бастапқы код"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Аудармалар"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Қосу"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Сүзгілеу режимін өзгерткенде бетті автоматты түрде қайта жүктеу"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Сақтық көшірме жасау…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Таңдалған сүзгі тізімдерінен негізгі желілік сүзгілеу.\n\nВеб-сайттардағы деректерді оқу және өзгерту үшін рұқсатты талап етпейді."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Тәртіп"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Кеңейтілген желілік сүзгілеу және таңдалған сүзгі тізімдерінен арнайы және жалпы кеңейтілген сүзгілеу.\n\nБарлық веб-сайттардағы деректерді оқу және өзгерту үшін ауқымды рұқсатты талап етеді.\n\nЖалпы кеңейтілген сүзгілеу веб-бет ресурстарын көбірек пайдалануға себеп болуы мүмкін."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Импорттау / Экспорттау"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Қосылатын арнайы косметикалық сүзгілерді осы жерге кірістіріңіз"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Пайдаланушылық сүзгілер"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Сүзгі тізімін қосу…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Қосылатын сүзгі тізімінің URL-мекенжайы"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Бақылау тақтасы"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Үнсіз келісім бойынша сүзгілеу режимі әрбір веб-сайттың сүзгілеу режимдерімен қайта анықталады. Кез келген берілген веб-сайтта оған ең жақсы келетін режимге сай сүзгілеу режимін реттеуге болады. Әр режимнің өз артықшылықтары мен кемшіліктері бар."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Үнсіз келісім бойынша сүзгілеу режимі"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Көрініс:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Пайдаланушылық DNR ережелері"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "DNR ережелері: …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Динамикалық ережелер жиыны"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Сүзгілеу режимінің толық ақпараты"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Сеанс ережелері жиыны"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Әзірлеу"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Әзірлеуші режимі"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Техникалық пайдаланушыларға сай келетін мүмкіндіктерге қол жеткізуді іске қосады."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Тіркелген ережелер саны: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Сенімсіз дереккөздерден мазмұн қоспаңыз"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Қалқымалы терезелерді блоктауды қосу"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Белсенді болған кезде, сәйкес сүзгілер веб-сайттар жасаған қажетсіз браузер қойындыларын автоматты түрде жабады."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Қатаң блоктауды іске қосу"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Ықтимал қалаусыз сайттарға навигация блокталған болады және сізге жалғастыру опциясы ұсынылады."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Экспорттау…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Мазмұнды сүзгілеудің тиімді құралы. Жарнаманы, трекерлерді, майнерлерді және т.б. орнатқаннан кейін бірден блоктайды."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "сүзгілеусіз"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "негізгі"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "оптималды"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "толық"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Тізімдерді табу"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Импорттау және соңына қосу…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Сүзгілеу орын алмайтын веб-сайттардың тізімі."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[тек хост атаулары]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Кеңейтілген желілік сүзгілеу және таңдалған сүзгі тізімдерінен арнайы кеңейтілген сүзгілеу.\n\nБарлық веб-сайттардағы деректерді оқу және өзгерту үшін ауқымды рұқсатты талап етеді."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} ереже, {{filterCount}} желі сүзгісінен түрлендірілген"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Жасау"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Таңдау"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Алдын ала қарау"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Ең жақсы сәйкестікті таңдау үшін айналдыру жолағын жылжытыңыз"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "Пайдаланушылық сүзгі жасау"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "сүзгілеу режимі"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Азырақ"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Бұл веб-сайтта"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Көбірек"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Бақылау тақтасын ашу"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Мәселе туралы есеп беру"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Бастапқы баптауларға қайтару…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Барлық пайдаланушылық баптауларыңыз өшіріледі. Расында бастапқы баптауларға қайтару керек пе?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Қалпына келтіру…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Кері қайту"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Сүзгі құру құмсалғышы"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Сақтау"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Сақтық көшірме"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Қалпына келтіру барлық ағымдағы пайдаланушылық баптауларыңыздың үстінен жазады."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Пайдаланушылық баптауларыңыздың файлға сақтық көшірмесін жасаңыз немесе пайдаланушылық баптауларыңызды файлдан қалпына келтіріңіз."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Баптаулар"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Саймандар панелі таңбашасында блокталған сұраулар санын көрсету"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Кері қайту"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Бұл терезені жабу"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Бұл сайт туралы маған қайта ескертпеу"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "параметрлерсіз"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Жалғастыру"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "{{listname}} ішіндегі сәйкес сүзгіге байланысты бет блокталды."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Блокталған бет басқа сайтқа бағыттағысы келеді. Егер жалғастыруды таңдасаңыз, тікелей мына мекенжайға өтесіз: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite келесі беттің жүктелуіне жол бермеді:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Бет блокталды"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "GitHub-тан ұқсас есептерді табу"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "GitHub-та жаңа есеп жасау"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Нақты веб-сайттардағы сүзгі мәселелері туралы \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> мәселелер трекеріне\u003C/span> хабарлаңыз. \u003Cu>GitHub тіркелгісі қажет.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Мәселелерді шешу ақпараты"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Веб-бетті «NSFW» (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">«Жұмыс орнында қарауға қауіпті»\u003C/a>) деп таңбалау"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Сүзгі мәселесі туралы есеп беру"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Еріктілерге қайталанатын есептермен ауырлық түсірмеу үшін, мәселенің әлдеқашан хабарланбағанын тексеріңіз. \u003Cb>Ескертпе:\u003C/b> батырманы шерту беттің бастау нүктесінің GitHub-қа жіберілуіне себеп болады."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Веб-бет…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Жазбаны таңдау --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Жарнамаларды немесе жарнама қалдықтарын көрсетеді"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Қабаттастырулар немесе басқа да кедергілер бар"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite-ты анықтайды"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Жекелікке қатысты мәселелері бар"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite іске қосылғанда дұрыс жұмыс істемейді"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Қалаусыз беттерді немесе терезелерді ашады"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Зиянды бағдарламаларға, фишингке апарады"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Веб-беттің адресі:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "Пайдаланушылық сүзгіні өшіру"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Веб-беттегі сәйкес элементтерді түспен ерекшелеу үшін төмендегі сүзгіні таңдаңыз. Сүзгіні өшіру үшін қоқыс шелегін шертіңіз."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Импортталған тізімдерден алынған көрнекілік немесе скрипт сүзгілерін қолдану үшін сіз uBO Lite-ке пайдаланушы скрипттерін іске қосу рұқсатын беруіңіз керек. Браузеріңіздің кеңейтулер бетін ашыңыз (\u003Ccode>chrome://extensions\u003C/code> Chrome-да немесе \u003Ccode>about:addons\u003C/code> Firefox-та), \u003Cb>uBO Lite\u003C/b> мәліметтерін ашып, \u003Cb>Пайдаланушы скрипттеріне рұқсат ету\u003C/b> (сонымен қатар “расталмаған үшінші тарап скрипттері” деп аталады) қосқышын қосыңыз."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "Элементті өшіру"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Элементтерді жылдам өшіру режимінен шығу"
+   }
+}

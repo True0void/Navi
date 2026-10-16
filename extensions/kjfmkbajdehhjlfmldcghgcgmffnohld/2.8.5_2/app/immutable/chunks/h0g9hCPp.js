@@ -1,0 +1,1 @@
+const a="https://bible.helloao.org";function s(){return fetch(`${a}/api/available_translations.json`).then(t=>t.json()).then(t=>t.translations)}function i(t){return fetch(`${a}/api/${t}/books.json`).then(n=>n.json()).then(n=>n.books)}function h(t,n,o){return fetch(`${a}/api/${t}/${n}/${o}.json`).then(e=>e.json()).then(e=>e.chapter)}export{h as a,s as b,i as g};

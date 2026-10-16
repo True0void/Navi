@@ -1,0 +1,1 @@
+import{t as s,a as e}from"./Bq3Edls0.js";import{C as n,j as m}from"./IT0BgYSF.js";import{S as g,B as d}from"./bKZjT58l.js";var p=s("<!> <!>",1);function _(i,r){var t=p(),a=n(t);g(a,{get settings(){return r.settings},provider:{href:"https://commons.wikimedia.org/wiki/Main_Page",name:"Wikimedia Commons"}});var o=m(a,2);d(o,{class:"mt-2"}),e(i,t)}export{_ as default};

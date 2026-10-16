@@ -1,0 +1,1 @@
+import{E as n}from"./BQOdJ04y.js";const e=()=>"Location",o=()=>"Месцазнаходжанне",a=()=>"Ubicación",r=()=>"Lokalizacja",c=(s={},t={})=>{const i=t.locale??n();return i==="en"?e():i==="be"?o():i==="es"?a():i==="pl"?r():"Widgets_IpInfo_Settings_Variable_Location"};export{c as w};

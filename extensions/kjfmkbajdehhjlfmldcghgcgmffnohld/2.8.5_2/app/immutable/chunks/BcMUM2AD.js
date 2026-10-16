@@ -1,0 +1,1 @@
+import{s as f,b as i,u,g as s}from"./IT0BgYSF.js";import{p as t}from"./BgOkquA0.js";import{d as v}from"./BbZj40j8.js";function x(a,c,e){let r=f(t(a()));const m=v(()=>i(r,t(a())),c,{immediate:(e==null?void 0:e.immediate)||!1}),d=(e==null?void 0:e.activityNotificator)||a;return u(()=>{d(),m()}),()=>s(r)}export{x as d};

@@ -1,0 +1,462 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "പരസ്യങ്ങള്‍"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ശല്യപ്പെടുത്തലുകൾ"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "സ്ഥിരസ്ഥിതി"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ഇറക്കുമതി ചെയ്ത ലിസ്റ്റുകൾ"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "മാൽവെയർ സംരക്ഷണം, സുരക്ഷ"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "പലവക "
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "പ്രൈവസി"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "പ്രാദേശികം, ഭാഷകള്‍"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "ചേഞ്ച് ലോഗ്"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "സോര്‍സ് കോഡ് (ജിപിഎല്‍ വി3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": ""
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "ബാഹ്യ ഡിപൻഡൻസികൾ (ജിപിൽവി3-അനുയോജ്യമായത്):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "ഡോക്യുമെന്റേഷൻ"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "ഫിൽട്ടർ ലിസ്റ്റ്"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "കുറിച്ച്"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "സ്വകാര്യതാ നയം"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "സോഴ്സ് കോഡ്"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": ""
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "ചേർക്കുക"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ഫിൽട്ടറിംഗ് മോഡ് മാറ്റുമ്പോൾ പേജ് സ്വയമേവ റീലോഡ് ചെയ്യുക"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "ബാക്കപ്പ്…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "തിരഞ്ഞെടുത്ത ഫിൽട്ടർ ലിസ്റ്റുകളിൽ നിന്നുള്ള അടിസ്ഥാന നെറ്റ്‌വർക്ക് ഫിൽട്ടറിംഗ്.\n\nവെബ്‌സൈറ്റുകളിലെ ഡാറ്റ വായിക്കാനും പരിഷ്‌ക്കരിക്കാനും അനുമതി ആവശ്യമില്ല."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "പെരുമാറ്റം"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "തിരഞ്ഞെടുത്ത ഫിൽട്ടർ ലിസ്റ്റുകളിൽ നിന്നുള്ള വിപുലമായ നെറ്റ്‌വർക്ക് ഫിൽട്ടറിംഗും നിർദ്ദിഷ്ടവും പൊതുവായതുമായ വിപുലീകൃത ഫിൽട്ടറിംഗും.\n\nഎല്ലാ വെബ്‌സൈറ്റുകളിലെയും ഡാറ്റ വായിക്കാനും പരിഷ്‌ക്കരിക്കാനും വിശാലമായ അനുമതി ആവശ്യമാണ്.\n\nപൊതുവായ വിപുലീകൃത ഫിൽട്ടറിംഗ് ഉയർന്ന വെബ്‌പേജ് ഉറവിട ഉപയോഗത്തിന് കാരണമായേക്കാം."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "ഇറക്കുമതി / കയറ്റുമതി"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "ചേർക്കേണ്ട പ്രത്യേക കോസ്മെറ്റിക്/സ്ക്രിപ്റ്റ്ലെറ്റ് ഫിൽറ്ററുകൾ"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ഇഷ്ടാനുസൃത ഫിൽറ്ററുകൾ"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "ഫിൽറ്റർ ലിസ്റ്റ് ചേർക്കുക…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "ചേർക്കേണ്ട ഫിൽറ്റർ ലിസ്റ്റിന്റെ URL"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO ലൈറ്റ് - ഡാഷ്ബോർഡ്"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "ഓരോ വെബ്‌സൈറ്റിലും ഫിൽട്ടറിംഗ് മോഡുകൾ ഉപയോഗിച്ച് ഡിഫോൾട്ട് ഫിൽട്ടറിംഗ് മോഡ് അസാധുവാക്കപ്പെടും. ഏത് വെബ്‌സൈറ്റിൽ ഏറ്റവും മികച്ച രീതിയിൽ പ്രവർത്തിക്കുന്ന മോഡ് അനുസരിച്ച് നിങ്ങൾക്ക് ഏത് വെബ്‌സൈറ്റിലും ഫിൽട്ടറിംഗ് മോഡ് ക്രമീകരിക്കാൻ കഴിയും. ഓരോ മോഡിനും അതിന്റെ ഗുണങ്ങളും ദോഷങ്ങളുമുണ്ട്."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "ഡിഫോൾട്ട് ഫിൽട്ടറിംഗ് മോഡ്"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "കാണുക:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "ഇഷ്ടാനുസൃത DNR നിയമങ്ങൾ"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "… ന്റെ DNR നിയമങ്ങൾ"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "ഡൈനാമിക് റൂൾസെറ്റ്"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "ഫിൽട്ടറിംഗ് മോഡ് വിശദാംശങ്ങൾ"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "സെഷൻ റൂൾസെറ്റ്"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "വികസനം"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ഡെവലപ്പർ മോഡ്"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "സാങ്കേതിക ഉപയോക്താക്കൾക്ക് അനുയോജ്യമായ സവിശേഷതകളിലേക്കുള്ള ആക്സസ് പ്രാപ്തമാക്കുന്നു."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "രജിസ്റ്റർ ചെയ്ത നിയമങ്ങളുടെ എണ്ണം: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "വിശ്വസനീയമല്ലാത്ത ഉറവിടങ്ങളിൽ നിന്ന് ഉള്ളടക്കം ചേർക്കരുത്"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "പോപ്പ്-അപ്പ് തടയൽ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "സജീവമാകുമ്പോൾ, പൊരുത്തപ്പെടുന്ന ഫിൽറ്ററുകൾ വെബ്സൈറ്റുകൾ സൃഷ്ടിക്കുന്ന അനാവശ്യ ബ്രൗസർ ടാബുകൾ യാന്ത്രികമായി അടയ്ക്കും."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "കർശനമായ തടയൽ പ്രവർത്തനക്ഷമമാക്കുക"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "സാധ്യതയുള്ള അനഭിലഷണീയ സൈറ്റുകളിലേക്കുള്ള നാവിഗേഷൻ തടയപ്പെടും, കൂടാതെ മുന്നോട്ട് പോകാനുള്ള ഓപ്ഷൻ നിങ്ങൾക്ക് വാഗ്ദാനം ചെയ്യും."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "കയറ്റുമതി…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "അനുമതി-കുറവ് ഉള്ളടക്ക ബ്ലോക്കർ. പരസ്യങ്ങൾ, ട്രാക്കറുകൾ, ക്രിപ്‌റ്റോ-മൈനർ എന്നിവയും മറ്റും ഇൻസ്റ്റാളുചെയ്യുമ്പോൾ ഉടനടി തടയുന്നു."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "ഫിൽട്ടറിംഗ് ഇല്ല"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "അടിസ്ഥാനം"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "ഒപ്റ്റിമൽ"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "പൂർണ്ണമായ"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "ലിസ്റ്റുകൾ കണ്ടെത്തുക"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "ഇറക്കുമതി ചെയ്ത് കൂട്ടിച്ചേർക്കുക…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "ഫിൽട്ടറിംഗ് നടക്കാത്ത ഹോസ്റ്റ് നെയിമുകളുടെ ലിസ്റ്റ്"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[ഹോസ്റ്റ്നെയിമുകൾ മാത്രം]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "തിരഞ്ഞെടുത്ത ഫിൽട്ടർ ലിസ്റ്റുകളിൽ നിന്നുള്ള വിപുലമായ നെറ്റ്‌വർക്ക് ഫിൽട്ടറിംഗും പ്രത്യേക വിപുലീകൃത ഫിൽട്ടറിംഗും.\n\nഎല്ലാ വെബ്‌സൈറ്റുകളിലെയും ഡാറ്റ വായിക്കാനും പരിഷ്‌ക്കരിക്കാനും വിശാലമായ അനുമതി ആവശ്യമാണ്."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} നിയമങ്ങൾ, {{filterCount}} നെറ്റ്‌വർക്ക് ഫിൽട്ടറുകളിൽ നിന്ന് പരിവർത്തനം ചെയ്‌തു"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "സൃഷ്ടിക്കുക"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "തിരഞ്ഞെടുക്കുക"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "പ്രിവ്യൂ"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "ഏറ്റവും മികച്ച പൊരുത്തം തിരഞ്ഞെടുക്കാൻ സ്ലൈഡർ നീക്കുക"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "ഒരു ഇഷ്ടാനുസൃത ഫിൽട്ടർ സൃഷ്ടിക്കുക"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "ഫിൽട്ടറിംഗ് മോഡ്"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "കുറവ്"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "ഈ വെബ്സൈറ്റിൽ"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "കൂടുതൽ"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "ഡാഷ്ബോർഡ് തുറക്കുക"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "ഒരു പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങളിലേക്ക് പുനഃസജ്ജമാക്കുക…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "നിങ്ങളുടെ എല്ലാ ഇഷ്ടാനുസൃത ക്രമീകരണങ്ങളും നീക്കം ചെയ്യപ്പെടും. സ്ഥിരസ്ഥിതി ക്രമീകരണങ്ങളിലേക്ക് പുനഃസജ്ജമാക്കാൻ നിങ്ങൾക്ക് ശരിക്കും ആഗ്രഹമുണ്ടോ?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "പുനഃസ്ഥാപിക്കുക…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "പഴയപടിയാക്കുക"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "ഫിൽറ്റർ-നിർമ്മാണ സാൻഡ്ബോക്സ്"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "സംരക്ഷിക്കുക"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "ബാക്കപ്പ്"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "പുനഃസ്ഥാപിക്കുന്നത് നിങ്ങളുടെ എല്ലാ നിലവിലെ ഇഷ്ടാനുസൃത ക്രമീകരണങ്ങളും മറികടക്കും."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "നിങ്ങളുടെ ഇഷ്ടാനുസൃത ക്രമീകരണങ്ങൾ ഒരു ഫയലിലേക്ക് ബാക്കപ്പ് ചെയ്യുക, അല്ലെങ്കിൽ ഒരു ഫയലിൽ നിന്ന് നിങ്ങളുടെ ഇഷ്ടാനുസൃത ക്രമീകരണങ്ങൾ പുനഃസ്ഥാപിക്കുക."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ടൂൾബാർ ഐക്കണിൽ തടഞ്ഞ അഭ്യർത്ഥനകളുടെ എണ്ണം കാണിക്കുക"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "തിരികെ പോകുക"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "ഈ വിൻഡോ അടയ്ക്കുക"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "ഈ സൈറ്റിനെക്കുറിച്ച് വീണ്ടും എന്നെ മുന്നറിയിപ്പ് നൽകരുത്"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "പാരാമീറ്ററുകൾ ഇല്ലാതെ"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "മുന്നോട്ട് പോകുക"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "{{listname}} എന്നതിലെ പൊരുത്തപ്പെടുന്ന ഒരു ഫിൽറ്റർ കാരണം പേജ് തടഞ്ഞു."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "തടഞ്ഞ പേജ് മറ്റൊരു സൈറ്റിലേക്ക് റീഡയറക്ട് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങൾ മുന്നോട്ട് പോകാൻ തിരഞ്ഞെടുക്കുകയാണെങ്കിൽ, നിങ്ങൾ നേരിട്ട് ഇങ്ങോട്ട് നാവിഗേറ്റ് ചെയ്യും: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "ഇനിപ്പറയുന്ന പേജ് ലോഡാകുന്നതിൽ നിന്ന് uBO Lite തടഞ്ഞു:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "പേജ് തടഞ്ഞു"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "GitHub-ൽ സമാനമായ റിപ്പോർട്ടുകൾ കണ്ടെത്തുക"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "GitHub-ൽ പുതിയ റിപ്പോർട്ട് സൃഷ്ടിക്കുക"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "പ്രത്യേക വെബ്സൈറ്റുകളിലെ ഫിൽറ്റർ പ്രശ്നങ്ങൾ \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> ഇഷ്യു ട്രാക്കറിൽ\u003C/span> റിപ്പോർട്ട് ചെയ്യുക. \u003Cu>ഒരു GitHub അക്കൗണ്ട് ആവശ്യമാണ്.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "പ്രശ്നപരിഹാര വിവരങ്ങൾ"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "വെബ് പേജിനെ “NSFW” എന്ന് ലേബൽ ചെയ്യുക (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“ജോലിക്ക് സുരക്ഷിതമല്ല”\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "ഒരു ഫിൽട്ടർ പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "ആവർത്തിച്ചുള്ള റിപ്പോർട്ടുകൾ ഉപയോഗിച്ച് സന്നദ്ധപ്രവർത്തകരെ ബുദ്ധിമുട്ടിക്കുന്നത് ഒഴിവാക്കാൻ, പ്രശ്നം നേരത്തെ റിപ്പോർട്ട് ചെയ്തിട്ടില്ലെന്ന് ദയവായി ഉറപ്പാക്കുക. \u003Cb>ശ്രദ്ധിക്കുക:\u003C/b> ബട്ടൺ ക്ലിക്ക് ചെയ്യുന്നത് പേജിന്റെ ഉത്ഭവം GitHub-ലേക്ക് അയയ്ക്കുന്നതിന് കാരണമാകും."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "വെബ് പേജ്…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- ഒരു എൻട്രി തിരഞ്ഞെടുക്കുക --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "പരസ്യങ്ങളോ പരസ്യ അവശിഷ്ടങ്ങളോ കാണിക്കുന്നു"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ഓവർലേകളോ മറ്റ് ശല്യങ്ങളോ ഉണ്ട്"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite-നെ കണ്ടെത്തുന്നു"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "സ്വകാര്യത-സംബന്ധമായ പ്രശ്നങ്ങൾ ഉണ്ട്"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite പ്രവർത്തനക്ഷമമാകുമ്പോൾ തകരാറിലാകുന്നു"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "അനാവശ്യ ടാബുകളോ വിൻഡോകളോ തുറക്കുന്നു"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ബാഡ്വെയർ, ഫിഷിംഗ് എന്നിവയിലേക്ക് നയിക്കുന്നു"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "വെബ് പേജിന്റെ വിലാസം:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "ഒരു ഇഷ്ടാനുസൃത ഫിൽട്ടർ നീക്കം ചെയ്യുക"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "വെബ് പേജിലെ പൊരുത്തപ്പെടുന്ന മൂലകങ്ങൾ ഹൈലൈറ്റ് ചെയ്യാൻ ചുവടെയുള്ള ഒരു ഫിൽട്ടർ തിരഞ്ഞെടുക്കുക. ഒരു ഫിൽട്ടർ നീക്കം ചെയ്യാൻ ട്രാഷ് ഐക്കൺ ക്ലിക്ക് ചെയ്യുക."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "ഇറക്കുമതി ചെയ്ത ലിസ്റ്റുകളിൽ നിന്നുള്ള കോസ്മെറ്റിക് അല്ലെങ്കിൽ സ്ക്രിപ്റ്റ്ലെറ്റ് ഫിൽറ്ററുകൾ നടപ്പിലാക്കാൻ, യൂസർ സ്ക്രിപ്റ്റുകൾ പ്രവർത്തിപ്പിക്കാനുള്ള അനുമതി uBO Lite-ന് നിങ്ങൾ നൽകണം. നിങ്ങളുടെ ബ്രൗസറിന്റെ എക്സ്റ്റൻഷനുകൾ പേജ് തുറക്കുക (Chrome-ൽ \u003Ccode>chrome://extensions\u003C/code> അല്ലെങ്കിൽ Firefox-ൽ \u003Ccode>about:addons\u003C/code>), \u003Cb>uBO Lite\u003C/b> വിശദാംശങ്ങൾ തുറക്കുക, \u003Cb>യൂസർ സ്ക്രിപ്റ്റുകൾ അനുവദിക്കുക\u003C/b> (മറ്റൊരു വിധത്തിൽ “പരിശോധിക്കാത്ത മൂന്നാം കക്ഷി സ്ക്രിപ്റ്റുകൾ” എന്നും അറിയപ്പെടുന്നു) ടോഗിൾ ഓണാക്കുക."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "ഒരു മൂലകം നീക്കം ചെയ്യുക"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "എലമെന്റ് സാപ്പർ മോഡിൽ നിന്ന് പുറത്തുകടക്കുക"
+   }
+}

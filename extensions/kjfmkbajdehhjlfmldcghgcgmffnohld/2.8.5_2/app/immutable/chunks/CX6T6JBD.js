@@ -1,0 +1,1 @@
+import{g as n}from"./D0I6Z7xl.js";import{n as t}from"./ChYQNmXc.js";import{e as u}from"./DBhKip93.js";function i(r,a,e){const[d,f]=t(e==null?void 0:e.in,r,a),m=(+d-+f)/u;return n(e==null?void 0:e.roundingMethod)(m)}export{i as d};

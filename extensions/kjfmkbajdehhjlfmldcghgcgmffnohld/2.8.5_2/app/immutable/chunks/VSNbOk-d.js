@@ -1,0 +1,1 @@
+var u=Object.defineProperty;var n=(e,s,t)=>s in e?u(e,s,{enumerable:!0,configurable:!0,writable:!0,value:t}):e[s]=t;var o=(e,s,t)=>n(e,typeof s!="symbol"?s+"":s,t);import{B as i,u as r}from"./DBhKip93.js";class h extends i{constructor(t){super();o(this,"luminosity");o(this,"hue");this.luminosity=r(t.luminosity||"random"),this.hue=r(t.hue||"random")}}export{h as Settings};

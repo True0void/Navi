@@ -1,0 +1,1 @@
+function r(t,l){let{ms:n=300,callback:a}=l,u;const e=()=>clearTimeout(u);function c(){e(),u=setTimeout(()=>{a(this.value)},n)}return t.addEventListener("input",c),{update(i){e(),n=i.ms,a=i.callback},destroy(){e(),t.removeEventListener("input",c)}}}export{r as d};

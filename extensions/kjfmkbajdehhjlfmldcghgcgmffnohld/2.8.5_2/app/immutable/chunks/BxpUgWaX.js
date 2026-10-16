@@ -1,0 +1,1 @@
+var a=Object.defineProperty;var t=(r,e,o)=>e in r?a(r,e,{enumerable:!0,configurable:!0,writable:!0,value:o}):r[e]=o;var s=(r,e,o)=>t(r,typeof e!="symbol"?e+"":e,o);import{I as c}from"./kXL_cfU5.js";import{u as l}from"./DBhKip93.js";class d extends c{constructor(o){super(o);s(this,"locale");this.locale=l(o.locale||"random")}}export{d as Settings};

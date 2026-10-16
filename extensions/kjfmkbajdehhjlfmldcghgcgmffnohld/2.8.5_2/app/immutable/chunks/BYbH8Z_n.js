@@ -1,0 +1,1 @@
+var i=Object.defineProperty;var o=(e,t,s)=>t in e?i(e,t,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[t]=s;var r=(e,t,s)=>o(e,typeof t!="symbol"?t+"":t,s);import{W as h,u as l}from"./DBhKip93.js";class c extends h{constructor(s){super();r(this,"html");this.html=l(s.html||'<div style="background-color: #eee; width: 100%; height: 100%;"></div>')}}export{c as Settings};

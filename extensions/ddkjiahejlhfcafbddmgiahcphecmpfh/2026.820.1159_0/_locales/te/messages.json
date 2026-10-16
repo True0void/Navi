@@ -1,0 +1,462 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ప్రకటనలు"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "బాధించేవి"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "డిఫాల్ట్"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "దిగుమతి చేసిన జాబితాలు"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "మాల్వేర్ రక్షణ, భద్రత"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ఇతరములు"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "గోప్యత"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ప్రాంతాలు, భాషలు"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "మార్పుల చరిత్ర"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "సోర్స్ కోడ్ (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "సహాయకులు"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "బాహ్య ఆధారాలు (GPLv3-అనుకూలమైనవి):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "డాక్యుమెంటేషన్"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "ఫిల్టర్ జాబితాలు"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "మా గురించి"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "గోప్యతా"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "సోర్స్ కోడ్"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "అనువాదాలు"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "జోడించు"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "ఫిల్టరింగ్ మోడ్‌ను మార్చేటప్పుడు పేజీని స్వయంచాలకంగా రీలోడ్ చేయండి"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "బ్యాకప్…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "ఎంచుకున్న ఫిల్టర్ జాబితాల నుండి ప్రాథమిక నెట్‌వర్క్ ఫిల్టరింగ్.\n\nవెబ్‌సైట్‌లలో డేటాను చదవడానికి మరియు సవరించడానికి అనుమతి అవసరం లేదు."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "ప్రవర్తన"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "ఎంచుకున్న ఫిల్టర్ జాబితాల నుండి అధునాతన నెట్‌వర్క్ ఫిల్టరింగ్ మరియు నిర్దిష్ట మరియు సాధారణ పొడిగించిన ఫిల్టరింగ్.\n\nఅన్ని వెబ్‌సైట్‌లలోని డేటాను చదవడానికి మరియు సవరించడానికి విస్తృత అనుమతి అవసరం.\n\nసాధారణ పొడిగించిన వడపోత అధిక వెబ్‌పేజీ వనరుల వినియోగానికి కారణం కావచ్చు."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "దిగుమతి / ఎగుమతి"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "జోడించడానికి నిర్దిష్ట కాస్మెటిక్/స్క్రిప్ట్‌లెట్ ఫిల్టర్లు"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "అనుకూల ఫిల్టర్లు"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "ఫిల్టర్ జాబితాను జోడించండి…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "జోడించవలసిన ఫిల్టర్ జాబితా యొక్క URL"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — డాష్‌బోర్డ్"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "డిఫాల్ట్ ఫిల్టరింగ్ మోడ్ ప్రతి-వెబ్‌సైట్ ఫిల్టరింగ్ మోడ్ల ద్వారా ఓవర్‌రైడ్ చేయబడుతుంది. మీరు ఏదైనా వెబ్‌సైట్‌లో ఆ వెబ్‌సైట్‌కు బాగా పనిచేసే మోడ్ ప్రకారం ఫిల్టరింగ్ మోడ్ను సర్దుబాటు చేయవచ్చు. ప్రతి మోడ్ దాని ప్రయోజనాలు మరియు అప్రయోజనాలను కలిగి ఉంటుంది."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "డిఫాల్ట్ ఫిల్టరింగ్ మోడ్"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "వీక్షించు:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "అనుకూల DNR నియమాలు"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "DNR నియమాలు …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "డైనమిక్ రూల్‌సెట్"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "ఫిల్టరింగ్ మోడ్ వివరాలు"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "సెషన్ రూల్‌సెట్"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "అభివృద్ధి"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "డెవలపర్ మోడ్"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "సాంకేతిక వినియోగదారులకు అనువైన ఫీచర్లకు ప్రాప్యతను ప్రారంభిస్తుంది."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "నమోదు చేసిన నియమాల సంఖ్య: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "విశ్వసనీయం కాని మూలాల నుండి కంటెంట్‌ను జోడించవద్దు"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "పాప్-అప్ బ్లాకింగ్‌ను ప్రారంభించండి"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "క్రియాశీలంగా ఉన్నప్పుడు, సరిపోలే ఫిల్టర్లు వెబ్‌సైట్ల ద్వారా సృష్టించబడిన అవాంఛిత బ్రౌజర్ టాబ్‌లను స్వయంచాలకంగా మూసివేస్తాయి."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "కఠినమైన బ్లాకింగ్‌ను ప్రారంభించండి"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "సంభావ్యంగా అవాంఛనీయ సైట్లకు నావిగేషన్ నిరోధించబడుతుంది మరియు మీరు కొనసాగడానికి ఎంపికను అందించబడతారు."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "ఎగుమతి…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "ఒక సమర్థవంతమైన కంటెంట్ బ్లాకర్. ప్రకటనలు, ట్రాకర్లు, మైనర్లు మరియు మరిన్నింటిని ఇన్‌స్టాల్ చేసిన వెంటనే బ్లాక్ చేస్తుంది."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "ఫిల్టరింగ్ లేదు"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "ప్రాథమిక"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "అత్యుత్తమ"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "పూర్తి"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "జాబితాలను కనుగొనండి"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "దిగుమతి చేసి జోడించు…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "వడపోత జరగని హోస్ట్ పేర్ల జాబితా"
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[హోస్ట్‌నేమ్లు మాత్రమే]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "ఎంచుకున్న ఫిల్టర్ జాబితాల నుండి అధునాతన నెట్‌వర్క్ ఫిల్టరింగ్ మరియు నిర్దిష్ట పొడిగించిన ఫిల్టరింగ్.\n\nఅన్ని వెబ్‌సైట్‌లలోని డేటాను చదవడానికి మరియు సవరించడానికి విస్తృత అనుమతి అవసరం."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} నియమాలు, {{filterCount}} నెట్‌వర్క్ ఫిల్టర్ల నుండి మార్చబడ్డాయి"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "సృష్టించు"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "ఎంచుకోండి"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "ప్రివ్యూ"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "ఉత్తమ మ్యాచ్‌ను ఎంచుకోవడానికి స్లయిడర్‌ను తరలించండి"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "అనుకూల ఫిల్టర్‌ను సృష్టించండి"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "వడపోత మోడ్"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "తక్కువ"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "ఈ వెబ్‌సైట్‌లో"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "మరిన్ని"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "డాష్‌బోర్డ్‌ను తెరవండి"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "సమస్యను నివేదించండి"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయి…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "మీ అనుకూల సెట్టింగ్‌లన్నీ తొలగించబడతాయి. మీరు నిజంగా డిఫాల్ట్ సెట్టింగ్‌లకు రీసెట్ చేయాలనుకుంటున్నారా?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "పునరుద్ధరించు…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "రివర్ట్ చేయండి"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "ఫిల్టర్-సృష్టి శాండ్‌బాక్స్"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "సేవ్ చేయండి"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "బ్యాకప్"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "పునరుద్ధరించడం మీ ప్రస్తుత అనుకూల సెట్టింగ్‌లన్నింటినీ ఓవర్‌రైట్ చేస్తుంది."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "మీ అనుకూల సెట్టింగ్‌లను ఫైల్‌కు బ్యాకప్ చేయండి, లేదా ఫైల్ నుండి మీ అనుకూల సెట్టింగ్‌లను పునరుద్ధరించండి."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "ఐచ్చికాలు"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "టూల్బార్ చిహ్నంపై నిరోధించబడిన అభ్యర్థనల సంఖ్యను చూపించు"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "వెనుకకు వెళ్ళు"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "ఈ విండోను మూసివేయి"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "ఈ సైట్ గురించి మళ్ళీ నాకు హెచ్చరించవద్దు"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "పారామితులు లేకుండా"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "కొనసాగించండి"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "{{listname}}లో సరిపోలే ఫిల్టర్ కారణంగా పేజీ నిరోధించబడింది."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "నిరోధించబడిన పేజీ మరొక సైట్‌కు దారి మళ్ళించాలనుకుంటుంది. మీరు కొనసాగించాలని ఎంచుకుంటే, మీరు నేరుగా ఇక్కడికి నావిగేట్ చేస్తారు: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite కింది పేజీని లోడ్ కాకుండా నిరోధించింది:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "పేజీ నిరోధించబడింది"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "GitHubలో సారూప్య నివేదికలను కనుగొనండి"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "GitHubలో కొత్త నివేదికను సృష్టించండి"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "నిర్దిష్ట వెబ్‌సైట్లతో ఫిల్టర్ సమస్యలను \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> ఇష్యూ ట్రాకర్‌కు\u003C/span> నివేదించండి. \u003Cu>GitHub ఖాతా అవసరం.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "సమస్య పరిష్కార సమాచారం"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "వెబ్ పేజీని “NSFW” (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">“పనికి సురక్షితం కాదు”\u003C/a>) గా లేబుల్ చేయండి"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "ఫిల్టర్ సమస్యను నివేదించండి"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "నకిలీ నివేదికలతో స్వచ్ఛంద సేవకులకు భారం కలగకుండా ఉండటానికి, సమస్య ఇప్పటికే నివేదించబడలేదని ధృవీకరించండి. \u003Cb>గమనిక:\u003C/b> బటన్‌ను క్లిక్ చేయడం వలన పేజీ యొక్క మూలం GitHubకు పంపబడుతుంది."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "వెబ్ పేజీ…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- ఒక ఎంపికను ఎంచుకోండి --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ప్రకటనలు లేదా ప్రకటన అవశేషాలను చూపిస్తుంది"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "ఓవర్లేలు లేదా ఇతర అసౌకర్యాలు ఉన్నాయి"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Liteను గుర్తిస్తుంది"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "గోప్యత-సంబంధిత సమస్యలు ఉన్నాయి"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "uBO Lite ప్రారంభించబడినప్పుడు పనిచేయకపోవడం"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "అవాంఛిత టాబ్‌లు లేదా విండోలను తెరుస్తుంది"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "చెడు సాఫ్ట్‌వేర్, ఫిషింగ్‌కు దారితీస్తుంది"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "వెబ్ పేజీ చిరునామా:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "అనుకూల ఫిల్టర్‌ను తొలగించండి"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "వెబ్ పేజీలో సరిపోలే మూలకాలను హైలైట్ చేయడానికి క్రింద ఒక ఫిల్టర్‌ను ఎంచుకోండి. ఫిల్టర్‌ను తొలగించడానికి చెత్త డబ్బాపై క్లిక్ చేయండి."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "దిగుమతి చేసిన జాబితాల నుండి కాస్మెటిక్ లేదా స్క్రిప్ట్‌లెట్ ఫిల్టర్లను అమలు చేయడానికి, మీరు uBO Liteకి యూజర్ స్క్రిప్ట్‌లను అమలు చేసే అనుమతిని ఇవ్వాలి. మీ బ్రౌజర్ యొక్క ఎక్స్‌టెన్షన్ పేజీని తెరవండి (\u003Ccode>chrome://extensions\u003C/code> Chromeలో లేదా \u003Ccode>about:addons\u003C/code> Firefoxలో), \u003Cb>uBO Lite\u003C/b> వివరాలను తెరవండి, మరియు \u003Cb>Allow user scripts\u003C/b> (లేదా “unverified third-party scripts” అని కూడా పిలుస్తారు) టోగుల్ చేయండి."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "ఒక మూలకాన్ని తొలగించండి"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "ఎలిమెంట్ జాపర్ మోడ్ నుండి నిష్క్రమించండి"
+   }
+}

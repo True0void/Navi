@@ -1,0 +1,31 @@
+{
+   "action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Protects your privacy by spoofing HTML canvas fingerprinting and altering canvas data outputs.",
+   "icons": {
+      "128": "icon.png",
+      "16": "icon.png",
+      "48": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuNEqcip3EISSmJePOILCujYv7FS5JWy1pAKMXKsF1Luzn9AYOYkph2Mz5Wp2trN7L31DuJkT/RLFHzY41pK4XkIZCZzw96esRLfbled84pqQKN9s1i3wBW+RQgw9TRDuIhWKaY6THMKgJzGnMaEROVl+ioWm+wFNUSmYQlBhMueKPqKMIo7uhKHWOEkt1i8HAq9MSXf/8bLE+n4xAlnII7qIsCcoGAlMSKWzJrRfkT0ZvTqMFA9rICIw3bMOlGpBgoyR8r0/uqhCQ93WCfoDDIh7m0r+Uhm2J4LJtRWf/COAVdTuH1acYLon2whLgYSb+vVupXa7RchFB+l7EGB8JQIDAQAB",
+   "manifest_version": 3,
+   "name": "Canvas Blocker & Fingerprint Protect",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "inject.js" ],
+      "use_dynamic_url": true
+   } ]
+}

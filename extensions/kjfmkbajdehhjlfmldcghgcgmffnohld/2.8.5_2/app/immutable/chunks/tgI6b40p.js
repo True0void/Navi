@@ -1,0 +1,1 @@
+import{t as e,a as n}from"./Bq3Edls0.js";import{C as i,j as p}from"./IT0BgYSF.js";import{S as m,B as d}from"./bKZjT58l.js";var g=e("<!> <!>",1);function c(r,s){var t=g(),a=i(t);m(a,{get settings(){return s.settings},provider:{href:"https://apod.nasa.gov/apod/astropix.html",name:"NASA"}});var o=p(a,2);d(o,{class:"mt-2"}),n(r,t)}export{c as default};

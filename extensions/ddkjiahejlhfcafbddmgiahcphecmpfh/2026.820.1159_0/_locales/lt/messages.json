@@ -1,0 +1,462 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Reklamos"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Erzinimai"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Numatytasis"
+   },
+   "3pGroupImported": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Importuoti sąrašai"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Apsauga nuo kenkėjiškų programų, saugumas"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Įvairūs"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Privatumas"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Regionai, kalbos"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Pakeitimų žurnalas"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Šaltinio kodas (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Autoriai"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Išorinės priklausomybės (suderinamos su „GPLv3“):"
+   },
+   "aboutDocumentation": {
+      "description": "Link to documentation in About pane",
+      "message": "Dokumentacija"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Filtrų sąrašai"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Apie"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Privatumo politika"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Programinis kodas"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Vertimai"
+   },
+   "addButton": {
+      "description": "Text for buttons used to add content",
+      "message": "Pridėti"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Automatiškai perkrauti sveitane keičiant filtro rėžimą"
+   },
+   "backupButton": {
+      "description": "Text for buttons used to back up content",
+      "message": "Kurti atsarginę kopiją…"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Pagrindinis tinklo filtravimas pagal pasirinktus filtrų sąrašus.\n\nNereikalauja leidimo skaityti ir keisti duomenis svetainėse."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "Elgsena"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "Išplėstinis tinklo filtravimas ir specifinis bei bendrasis išplėstinis filtravimas pagal pasirinktus filtrų sąrašus.\n\nReikalauja plataus leidimo skaityti ir keisti duomenis visose svetainėse.\n\nBendrasis išplėstinis filtravimas gali padidinti tinklalapio išteklių naudojimą."
+   },
+   "customFiltersImportExportLabel": {
+      "description": "Text label heading the import/export area of custom filters",
+      "message": "Importuoti / Eksportuoti"
+   },
+   "customFiltersImportTextareaPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Konkretūs kosmetiniai / scenarijų filtrai, kuriuos norite pridėti"
+   },
+   "customFiltersPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Pasirinktiniai filtrai"
+   },
+   "customListImportLabel": {
+      "description": "Text label heading the import area of custom filter lists",
+      "message": "Pridėti filtrų sąrašą…"
+   },
+   "customListImportPlaceholder": {
+      "description": "Placeholder text which describes the purpose of the textarea widget",
+      "message": "Pridedamo filtrų sąrašo URL"
+   },
+   "customListImportUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from imported lists, you must grant uBO Lite permission to run user scripts."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — Skydelis"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Numatytąjį filtravimo režimą pakeis filtravimo režimai, nustatyti atskiroms svetainėms. Galite koreguoti filtravimo režimą bet kurioje svetainėje pagal tai, kuris režimas joje veikia geriausiai. Kiekvienas režimas turi savo privalumų ir trūkumų."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Numatytasis filtravimo režimas"
+   },
+   "developDropdownLabel": {
+      "description": "A label of a dropdown list",
+      "message": "Peržiūrėti:"
+   },
+   "developOptionCustomDnrRules": {
+      "description": "An option in a dropdown list",
+      "message": "Pasirinktinės DNR taisyklės"
+   },
+   "developOptionDnrRulesOf": {
+      "description": "A section header in a dropdown list",
+      "message": "DNR taisyklės iš …"
+   },
+   "developOptionDynamicRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Dinaminis taisyklių rinkinys"
+   },
+   "developOptionFilteringModeDetails": {
+      "description": "An option in a dropdown list",
+      "message": "Filtravimo režimo informacija"
+   },
+   "developOptionSessionRuleset": {
+      "description": "An option in a dropdown list",
+      "message": "Sesijos taisyklių rinkinys"
+   },
+   "developPageName": {
+      "description": "appears as tab name in dashboard. Inspired from 'Develop' menu in Safari, see https://developer.apple.com/documentation/safari-developer-tools/develop-menu",
+      "message": "Kūrimas"
+   },
+   "developerModeLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Kūrėjo režimas"
+   },
+   "developerModeLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Suteikia prieigą prie funkcijų, tinkamų techniniams vartotojams."
+   },
+   "dnrRulesCountInfo": {
+      "description": "Short sentence to report the number of currently registered DNR rules",
+      "message": "Registruotų taisyklių skaičius: {count}"
+   },
+   "dnrRulesWarning": {
+      "description": "Short description of the DNR rules editor pane",
+      "message": "Nepridėkite turinio iš nepatikimų šaltinių"
+   },
+   "enablePopupBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Įjungti iššokančiųjų langų blokavimą"
+   },
+   "enablePopupBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Kai aktyvu, atitinkantys filtrai automatiškai uždarys nepageidaujamas naršyklės korteles, sukurtas svetainių."
+   },
+   "enableStrictBlockLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Įjungti griežtą blokavimą"
+   },
+   "enableStrictBlockLegend": {
+      "description": "Short description for a checkbox in the options page",
+      "message": "Navigacija į potencialiai nepageidaujamas svetaines bus blokuojama, ir jums bus pasiūlyta galimybė tęsti."
+   },
+   "exportButton": {
+      "description": "Text for buttons used to export content",
+      "message": "Eksportuoti…"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Veiksmingas turinio blokatorius. Iškart po įdiegimo blokuoja skelbimus, sekimo priemones, kriptovaliutų kasėjus ir dar daugiau."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "be filtravimo"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "pagrindinis"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "optimalus"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "pilnas"
+   },
+   "findListsPlaceholder": {
+      "description": "Placeholder for the input field used to find lists",
+      "message": "Ieškoti sąrašų"
+   },
+   "importAndAppendButton": {
+      "description": "Text for buttons used to import and append content",
+      "message": "Importuoti ir pridėti…"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Svetainių, kuriose filtravimas nebus atliekamas, sąrašas."
+   },
+   "noFilteringModePlaceholder": {
+      "description": "Default text for in edit field",
+      "message": "[tik kompiuterių vardai]\nexample.com\ngames.example\n..."
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "Išplėstinis tinklo filtravimas ir specifinis išplėstinis filtravimas pagal pasirinktus filtrų sąrašus.\n\nReikalauja plataus leidimo skaityti ir keisti duomenis visose svetainėse."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} taisyklės, konvertuotos iš {{filterCount}} tinklo filtrų"
+   },
+   "pickerCreate": {
+      "description": "Text for the button to create the filter",
+      "message": "Sukurti"
+   },
+   "pickerPick": {
+      "description": "Text for the button to re-enter element-picking mode",
+      "message": "Pasirinkti"
+   },
+   "pickerPreview": {
+      "description": "Text for the button to activate preview mode",
+      "message": "Peržiūra"
+   },
+   "pickerSliderLabel": {
+      "description": "Label to describe the purpose of the slider",
+      "message": "Perkelkite slankiklį, kad pasirinktumėte geriausią atitikmenį"
+   },
+   "pickerTipEnter": {
+      "description": "Label for the menu entry to create cosmetic filters",
+      "message": "Sukurti pasirinktinį filtrą"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "filtravimo režimas"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Mažiau"
+   },
+   "popupLocalToolsLabel": {
+      "description": "Label in the popup panel for the local tools section",
+      "message": "Šioje svetainėje"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Daugiau"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Atidaryti skydelį"
+   },
+   "popupTipReport": {
+      "description": "Tooltip used for the 'chat' icon in the panel",
+      "message": "Pranešti apie problemą"
+   },
+   "resetToDefaultButton": {
+      "description": "Text for buttons used to reset configurations to default",
+      "message": "Atkurti numatytuosius nustatymus…"
+   },
+   "resetToDefaultConfirm": {
+      "description": "Message asking user to confirm reset to default settings",
+      "message": "Visi jūsų pasirinktiniai nustatymai bus pašalinti. Ar tikrai norite atkurti numatytuosius nustatymus?"
+   },
+   "restoreButton": {
+      "description": "Text for buttons used to restore content",
+      "message": "Atkurti…"
+   },
+   "revertButton": {
+      "description": "Text for buttons used to revert changes",
+      "message": "Atšaukti"
+   },
+   "sandboxEditorLabel": {
+      "description": "Header for filter-creation section in the dashboard",
+      "message": "Filtrų kūrimo smėlio dėžė"
+   },
+   "sandboxEditorUserScriptsInfo": {
+      "description": "A notice to inform user that the enforcement of some filters requires permission to execute 'user scripts'",
+      "message": "To enforce cosmetic or scriptlet filters from the sandbox, you must grant uBO Lite permission to run user scripts."
+   },
+   "saveButton": {
+      "description": "Text for buttons used to save changes",
+      "message": "Išsaugoti"
+   },
+   "settingsBackupRestoreLabel": {
+      "description": "The header text for the back up/restore section",
+      "message": "Atsarginė kopija"
+   },
+   "settingsBackupRestoreLegend": {
+      "description": "Important information about the back up/restore section.",
+      "message": "Atkūrimas perrašys visus jūsų dabartinius pasirinktinius nustatymus."
+   },
+   "settingsBackupRestoreSummary": {
+      "description": "A summary description of the back up/restore section.",
+      "message": "Sukurkite atsarginę pasirinktinių nustatymų kopiją faile arba atkurkite pasirinktinius nustatymus iš failo."
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Nustatymai"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Rodyti užblokuotų užklausų skaičių įrankių juostos piktogramoje"
+   },
+   "strictblockBack": {
+      "description": "A button to go back to the previous web page",
+      "message": "Grįžti atgal"
+   },
+   "strictblockClose": {
+      "description": "A button to close the current tab",
+      "message": "Uždaryti šį langą"
+   },
+   "strictblockDontWarn": {
+      "description": "Label for checkbox in document-blocked page",
+      "message": "Daugiau neįspėti manęs apie šią svetainę"
+   },
+   "strictblockNoParamsPrompt": {
+      "description": "Label to be used for the parameter-less URL",
+      "message": "be parametrų"
+   },
+   "strictblockProceed": {
+      "description": "A button to navigate to the blocked page",
+      "message": "Tęsti"
+   },
+   "strictblockReasonSentence1": {
+      "description": "Text informing about what is causing the page to be blocked",
+      "message": "Puslapis buvo užblokuotas dėl atitinkančio filtro sąraše {{listname}}."
+   },
+   "strictblockRedirectSentence1": {
+      "description": "Text warning about an incoming redirect",
+      "message": "Užblokuotas puslapis nori nukreipti į kitą svetainę. Jei nuspręsite tęsti, būsite tiesiogiai nukreipti į: {{url}}"
+   },
+   "strictblockSentence1": {
+      "description": "Sentence used in the strict-blocked page",
+      "message": "uBO Lite neleido įkelti šio puslapio:"
+   },
+   "strictblockTitle": {
+      "description": "Web page title for the strict-blocked page",
+      "message": "Puslapis užblokuotas"
+   },
+   "supportFindSpecificButton": {
+      "description": "A clickable link in the filter issue reporter section",
+      "message": "Rasti panašius pranešimus GitHub"
+   },
+   "supportReportSpecificButton": {
+      "description": "Text for button which opens an external web page in Support pane",
+      "message": "Sukurti naują pranešimą GitHub"
+   },
+   "supportS3P1": {
+      "description": "First paragraph of 'Filter issues' section in Support pane",
+      "message": "Praneškite apie filtrų problemas su konkrečiomis svetainėmis \u003Cspan data-url=\"https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue\">\u003Ccode>uBlockOrigin/uAssets\u003C/code> problemų sekimo sistemoje\u003C/span>. \u003Cu>Reikia GitHub paskyros.\u003C/u>"
+   },
+   "supportS5H": {
+      "description": "Label of 'Troubleshooting information' section in 'Report a filter issue' page",
+      "message": "Triktčių šalinimo informacija"
+   },
+   "supportS6Checkbox1": {
+      "description": "A checkbox to use for NSFW sites",
+      "message": "Pažymėti tinklalapį kaip „NSFW“ (\u003Ca href=\"https://wikipedia.org/wiki/Not_safe_for_work\">„Netinkama darbui“\u003C/a>)"
+   },
+   "supportS6H": {
+      "description": "Header of 'Report a filter issue' section in Support pane",
+      "message": "Pranešti apie filtro problemą"
+   },
+   "supportS6P1S1": {
+      "description": "A paragraph in the filter issue reporter section",
+      "message": "Kad neapkrautumėte savanorių dubliavimosi pranešimais, patikrinkite, ar ši problema jau nebuvo pranešta. \u003Cb>Pastaba:\u003C/b> paspaudus mygtuką, puslapio kilmė bus išsiųsta į GitHub."
+   },
+   "supportS6Select1": {
+      "description": "Label for widget to select type of issue",
+      "message": "Tinklalapis…"
+   },
+   "supportS6Select1Option0": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "-- Pasirinkite įrašą --"
+   },
+   "supportS6Select1Option1": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Rodo skelbimus arba skelbimų likučius"
+   },
+   "supportS6Select1Option2": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Turi perdangas ar kitus trukdžius"
+   },
+   "supportS6Select1Option3": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Aptinka uBO Lite"
+   },
+   "supportS6Select1Option4": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Turi su privatumu susijusių problemų"
+   },
+   "supportS6Select1Option5": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Veikia netinkamai, kai įjungtas uBO Lite"
+   },
+   "supportS6Select1Option6": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Atidaro nepageidaujamas korteles ar langus"
+   },
+   "supportS6Select1Option7": {
+      "description": "An entry in the widget used to select the type of issue",
+      "message": "Veda prie kenkėjiškų programų, sukčiavimo (phishing)"
+   },
+   "supportS6URL": {
+      "description": "Label for the URL of the page",
+      "message": "Tinklalapio adresas:"
+   },
+   "unpickerTipEnter": {
+      "description": "Label for the menu entry to delete cosmetic filters",
+      "message": "Pašalinti pasirinktinį filtrą"
+   },
+   "unpickerUsage": {
+      "description": "Summary description on how to use the tool to remove custom filters",
+      "message": "Pasirinkite filtrą žemiau, kad paryškintumėte atitinkančius elementus tinklalapyje. Spustelėkite šiukšliadėžę, kad pašalintumėte filtrą."
+   },
+   "userScriptsInfo": {
+      "description": "A notice to inform user on how to enable 'user scripts' permission",
+      "message": "Kad galėtumėte taikyti kosmetinius ar scenarijų filtrus iš importuotų sąrašų, turite suteikti uBO Lite leidimą vykdyti vartotojo scenarijus. Atidarykite naršyklės plėtinių puslapį (\u003Ccode>chrome://extensions\u003C/code> sistemoje Chrome arba \u003Ccode>about:addons\u003C/code> sistemoje Firefox), atidarykite \u003Cb>uBO Lite\u003C/b> išsamią informaciją ir įjunkite \u003Cb>Leisti vartotojo scenarijus\u003C/b> (taip pat vadinama „nepatikrintais trečiųjų šalių scenarijais“)."
+   },
+   "zapperTipEnter": {
+      "description": "Tooltip for the button used to enter zapper mode",
+      "message": "Pašalinti elementą"
+   },
+   "zapperTipQuit": {
+      "description": "Tooltip for the button used to exit zapper mode",
+      "message": "Išeiti iš elementų šalinimo režimo"
+   }
+}

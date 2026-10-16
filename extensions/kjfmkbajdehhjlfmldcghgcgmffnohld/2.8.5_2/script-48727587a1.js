@@ -1,0 +1,1 @@
+var a={base:''},b=document.body.firstElementChild;Promise.all([import('/app/immutable/entry/start.rkDsUaL0.js'),import('/app/immutable/entry/app.Cpn2MRPB.js')]).then(([A,_])=>A.start(_,b,{node_ids:[0,2],data:[null,null],form:null,error:null}));

@@ -1,0 +1,1 @@
+var t=Object.defineProperty;var c=(o,e,r)=>e in o?t(o,e,{enumerable:!0,configurable:!0,writable:!0,value:r}):o[e]=r;var s=(o,e,r)=>c(o,typeof e!="symbol"?e+"":e,r);import{B as a,u as l}from"./DBhKip93.js";class i extends a{constructor(r){super();s(this,"color");this.color=l(r.color||"#eee")}}export{i as Settings};

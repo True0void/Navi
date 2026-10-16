@@ -1,0 +1,1 @@
+import{t as r,a as i}from"./Bq3Edls0.js";import{p as l,a as s,c as d,r as v}from"./IT0BgYSF.js";import{q as f}from"./BQOdJ04y.js";var m=r('<div class="w-full h-full overflow-hidden hover:overflow-y-auto rounded-[inherit]"><!></div>');function n(e,t){l(t,!0);var a=m(),o=d(a);f(o,()=>t.settings.html.value),v(a),i(e,a),s()}export{n as default};

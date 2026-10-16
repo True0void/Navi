@@ -1,0 +1,22 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self';"
+   },
+   "description": "A beautiful New Tab page with many customizable backgrounds and widgets",
+   "icons": {
+      "128": "favicon/favicon-128x128.png",
+      "16": "favicon/favicon-16x16.png",
+      "32": "favicon/favicon-32x32.png",
+      "48": "favicon/favicon-48x48.png",
+      "96": "favicon/favicon-96x96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4CbV0RZf2oB/uGVeqSQW8l3mGq9rOvb9l05/U2XhXs8DkbmgFWZ9nG2+ziEE+21VVLWDKU33oUu5YyawF/qjUMFm5M13GKa5uRY5DRi0BneDThjgImUG6HKkDgVYs+eh79TZrLCy+DHD8+swfnXZR7XBcwYwhQXdUxNsOOI7dNbvU3WnzgLbCKhy9CAW3DInwC6ESmh2X1wVEEJAjdIje5YqpcIP0b6AFX97YDJ1aA2YGsvPq3FAFv6PCmzTJSnIk8uh4QXR9fUArQ1X6yIoBJFutY0GqfGrOsmH2brW3TYHfj5jA/4Ajgup8Z+pSM7TLyo/etB4MIMvM+09mQww/wIDAQAB",
+   "manifest_version": 3,
+   "name": "SvelTab",
+   "permissions": [ "storage", "unlimitedStorage", "topSites" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.8.5"
+}
