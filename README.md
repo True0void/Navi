@@ -1,5 +1,5 @@
 ```bash
-sudo pacman -S ungoogled-chromium
+yay -S ungoogled-chromium-bin
 OR
 flatpak install flathub io.github.ungoogled_software.ungoogled_chromium
 ```
